@@ -3,9 +3,7 @@
 </p>
 
 <br>
----
-
-## About Me
+##
 <p align="center" style="font-size:40px; font-weight:bold; color:#363636;">🚀 Welcome to my page! 🚀
 </p>
 <p style="font-size:20px; color:#363636;">
