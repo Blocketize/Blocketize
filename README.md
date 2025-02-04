@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&height=250&color=97dbae&animation=fadeIn&fontColor=363636&rotate=16&descAlignY=43&descAlign=60&fontAlignY=20&fontAlign=70&text=Crypto%20World!&desc=Welcome%20to%20Blocketize!)
 <br>
+---
+
+## About Me
 <p align="center" style="font-size:40px; font-weight:bold; color:#363636;">🚀 Welcome to my page! 🚀
 </p>
 <p style="font-size:20px; color:#363636;">
