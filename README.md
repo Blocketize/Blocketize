@@ -7,6 +7,14 @@
 ## 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
+[![XRP](https://img.shields.io/badge/XRP-25A768?logo=xrp&logoColor=fff)](#)
+[![Cardano](https://img.shields.io/badge/Cardano-0E4D92?logo=cardano&logoColor=white)](#)
+[![Dogecoin](https://img.shields.io/badge/Dogecoin-C2A633?logo=dogecoin&logoColor=white)](#)
+[![Monero](https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff)](#)
+[![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=white)](#)
+
+
 
 
 
