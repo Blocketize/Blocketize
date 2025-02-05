@@ -16,7 +16,6 @@
 [![Ripple](https://img.shields.io/badge/Ripple-2288CB?logo=ripple&logoColor=white)](#)
 [![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=fff)](#)
 [![Zcash](https://img.shields.io/badge/Zcash-F3B724?logo=zcash&logoColor=fff)](#)
-[![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff)](#)
 [![Chainlink](https://img.shields.io/badge/Chainlink-2A5ADA?logo=chainlink&logoColor=white)](#)
 [![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#)
 
